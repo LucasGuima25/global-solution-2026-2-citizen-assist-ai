@@ -1,0 +1,84 @@
+{
+  "executado_em_utc": "2026-11-18T08:50:42.296819+00:00",
+  "casos_distintos": 26,
+  "perguntas_nao_vazias": 25,
+  "categorias": {
+    "direta": 15,
+    "reformulacao": 3,
+    "fora_escopo": 5,
+    "ambiguidade": 2,
+    "entrada_invalida": 1
+  },
+  "ambiente": {
+    "python": "3.12.14",
+    "sistema": "Windows-11-10.0.26300-SP0",
+    "medicao": "perf_counter; busca e formatação; exclui leitura inicial e digitação"
+  },
+  "por_modelo": {
+    "A": {
+      "consultas": 26,
+      "acertos": 26,
+      "taxa_acerto_percentual": 100.0,
+      "tempo_medio_ms": 2.887896,
+      "falhas": [],
+      "por_categoria": {
+        "direta": {
+          "casos": 15,
+          "acertos": 15
+        },
+        "reformulacao": {
+          "casos": 3,
+          "acertos": 3
+        },
+        "fora_escopo": {
+          "casos": 5,
+          "acertos": 5
+        },
+        "ambiguidade": {
+          "casos": 2,
+          "acertos": 2
+        },
+        "entrada_invalida": {
+          "casos": 1,
+          "acertos": 1
+        }
+      }
+    },
+    "B": {
+      "consultas": 26,
+      "acertos": 26,
+      "taxa_acerto_percentual": 100.0,
+      "tempo_medio_ms": 2.888708,
+      "falhas": [],
+      "por_categoria": {
+        "direta": {
+          "casos": 15,
+          "acertos": 15
+        },
+        "reformulacao": {
+          "casos": 3,
+          "acertos": 3
+        },
+        "fora_escopo": {
+          "casos": 5,
+          "acertos": 5
+        },
+        "ambiguidade": {
+          "casos": 2,
+          "acertos": 2
+        },
+        "entrada_invalida": {
+          "casos": 1,
+          "acertos": 1
+        }
+      }
+    }
+  },
+  "comparacao": "Checagens automáticas de fonte, data, aviso, preservação da orientação e estrutura; sem notas humanas de clareza.",
+  "limitacoes": [
+    "A amostra é pequena e não representa todas as formulações possíveis.",
+    "Checagens textuais não comprovam correção semântica integral nem atualização da fonte.",
+    "O tempo depende do equipamento; não mede leitura pelo usuário nem serviços externos.",
+    "Facilidade de uso e escolha qualitativa entre modelos exigem roteiro registrado separadamente."
+  ]
+}

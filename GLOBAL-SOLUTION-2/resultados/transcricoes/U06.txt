@@ -1,0 +1,92 @@
+
+CITIZEN ASSIST AI
+
+Assistente educativo de orientação cidadã. Não é um canal oficial.
+As respostas vêm de uma base local e podem exigir confirmação na fonte.
+Não informe CPF, senha, documentos ou outros dados pessoais.
+As perguntas não são gravadas nem enviadas a serviços externos.
+
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Modelo A: Resposta direta: atue como assistente acadêmico de orientação cidadã. Apresente o título e a orientação cadastrada em um parágrafo. Identifique fonte, link, data de verificação e aviso. Não acrescente fatos nem alegue atendimento oficial.
+
+Modelo B: Resumo e passos: atue como assistente acadêmico de orientação cidadã. Apresente o título, o resumo e os passos já cadastrados em uma lista numerada. Identifique fonte, link, data de verificação e aviso. Não invente etapas, não solicite dados pessoais e não alegue atendimento oficial.
+Escolha A ou B (0 para voltar): Modelo A selecionado.
+
+Menu principal | Modelo de resposta: A
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Qual é sua dúvida? (0 para voltar): 
+DOC02 - Acessar a CNH digital
+
+A CNH digital é acessada pelo aplicativo oficial CNH do Brasil com login gov.br. A página do serviço exige CNH válida com QR Code e orienta a validação da identidade no aplicativo. Se houver erro ao gerar o documento, consulte o Detran onde a habilitação foi emitida.
+
+Fonte: Senatran - Emitir a Carteira Nacional de Habilitação Digital
+https://www.gov.br/pt-br/servicos/emitir-a-carteira-nacional-de-habilitacao-digital-cnh-e?id=7635&origem=servico
+Verificado em: 2026-11-10
+Atenção: Este registro trata do acesso digital à habilitação existente. Primeira habilitação, renovação e regularização devem ser verificadas nos canais oficiais específicos.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.
+
+Continuar por um assunto relacionado:
+1. Obter o documento digital do veículo
+2. Criar uma conta gov.br
+3. Recuperar a senha gov.br
+0. Voltar
+Escolha: 
+Menu principal | Modelo de resposta: A
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Modelo A: Resposta direta: atue como assistente acadêmico de orientação cidadã. Apresente o título e a orientação cadastrada em um parágrafo. Identifique fonte, link, data de verificação e aviso. Não acrescente fatos nem alegue atendimento oficial.
+
+Modelo B: Resumo e passos: atue como assistente acadêmico de orientação cidadã. Apresente o título, o resumo e os passos já cadastrados em uma lista numerada. Identifique fonte, link, data de verificação e aviso. Não invente etapas, não solicite dados pessoais e não alegue atendimento oficial.
+Escolha A ou B (0 para voltar): Modelo B selecionado.
+
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Qual é sua dúvida? (0 para voltar): 
+DOC02 - Acessar a CNH digital
+
+A CNH digital é acessada pelo aplicativo oficial CNH do Brasil com login gov.br. A página do serviço exige CNH válida com QR Code e orienta a validação da identidade no aplicativo. Se houver erro ao gerar o documento, consulte o Detran onde a habilitação foi emitida.
+
+Como consultar:
+1. Confira na página oficial os requisitos da CNH digital.
+2. Instale o aplicativo CNH do Brasil pelo link oficial e entre com gov.br.
+3. Siga a validação solicitada para gerar o documento; em caso de erro, procure o Detran emissor.
+
+Fonte: Senatran - Emitir a Carteira Nacional de Habilitação Digital
+https://www.gov.br/pt-br/servicos/emitir-a-carteira-nacional-de-habilitacao-digital-cnh-e?id=7635&origem=servico
+Verificado em: 2026-11-10
+Atenção: Este registro trata do acesso digital à habilitação existente. Primeira habilitação, renovação e regularização devem ser verificadas nos canais oficiais específicos.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.
+
+Continuar por um assunto relacionado:
+1. Obter o documento digital do veículo
+2. Criar uma conta gov.br
+3. Recuperar a senha gov.br
+0. Voltar
+Escolha: 
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: Consulta encerrada.

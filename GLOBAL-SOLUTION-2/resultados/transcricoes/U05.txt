@@ -1,0 +1,27 @@
+
+CITIZEN ASSIST AI
+
+Assistente educativo de orientação cidadã. Não é um canal oficial.
+As respostas vêm de uma base local e podem exigir confirmação na fonte.
+Não informe CPF, senha, documentos ou outros dados pessoais.
+As perguntas não são gravadas nem enviadas a serviços externos.
+
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Qual é sua dúvida? (0 para voltar): 
+Não encontrei uma orientação confiável na base para essa pergunta. Escolha um tema ou consulte a fonte oficial adequada.
+Você pode explorar os temas disponíveis pelo menu principal.
+Temas: Conta gov.br, Documentos digitais, Serviços ao cidadão
+
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: Consulta encerrada.

@@ -1,0 +1,34 @@
+# Fontes e verificação da base
+
+A base possui 15 orientações, distribuídas em três temas com cinco registros cada: Conta gov.br, Documentos digitais e Serviços ao cidadão. As perguntas e cenários de teste são exemplos; as orientações são resumos de conteúdo publicado pelos responsáveis pelos serviços.
+
+**Verificação inicial: 10/11/2026. Revisão adicional de CID03: 18/11/2026.** A revisão de CID03 conferiu na plataforma oficial a exigência de conta gov.br prata ou ouro e atualizou seu campo `verificado_em`. Os outros 14 registros preservam a data de 10/11/2026. A verificação consistiu na leitura do conteúdo público das páginas oficiais, conferindo o serviço, o caminho geral de acesso e as condições reproduzidas. Não houve login, emissão de documentos, abertura de protocolos ou validação de dados pessoais. Cada data registra a conferência do conteúdo correspondente; não certifica disponibilidade contínua nem atualiza a base automaticamente.
+
+| Registro | Fonte oficial consultada | O que sustenta e limite do registro |
+|---|---|---|
+| GOV01 | [Criar sua conta GOV.BR](https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br) | Criação por site/aplicativo, inscrição no CPF, gratuidade. Não cria conta dentro do protótipo. |
+| GOV02 | [Recuperar senha da conta gov.br](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/) | Recuperação pelo login, alternativas e atendimento. Disponibilidade varia por titular; recuperação de segunda etapa é assunto distinto. |
+| GOV03 | [Níveis da conta gov.br](https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr) | Bronze/prata/ouro e opção Aumentar nível. Não garante qual validação estará disponível. |
+| GOV04 | [Ativar a verificação em duas etapas](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas/ativar-a-verificacao-em-duas-etapas/) | Conta prata/ouro, ativação no aplicativo, código vinculado ao celular e cuidados de recuperação. |
+| GOV05 | [Alterar dados cadastrais](https://acesso.gov.br/faq/_perguntasdafaq/alterardadoscadastrais.html) | Edição de contatos e validação por código. Pressupõe acesso à conta; não se aplica a todos os casos de perda de acesso. |
+| DOC01 | [Obter a Carteira de Trabalho](https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho) | Acesso web/aplicativo com CPF e conta autenticada gov.br; gratuidade. Não analisa vínculos trabalhistas. |
+| DOC02 | [Emitir a Carteira Nacional de Habilitação Digital](https://www.gov.br/pt-br/servicos/emitir-a-carteira-nacional-de-habilitacao-digital-cnh-e?id=7635&origem=servico) | CNH do Brasil, CNH válida com QR Code, validação e encaminhamento ao Detran para erros. Não cobre renovação ou primeira habilitação. |
+| DOC03 | [Emitir o CRLV-e](https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-registro-e-licenciamento-de-veiculo-digital-crlv-e?id=23479&origem=servico) | Acesso pelo proprietário e sequência Veículos / Consultar Meus Veículos / CRLV Digital no portal Senatran. Não verifica débitos. |
+| DOC04 | [Perguntas e respostas sobre a CIN](https://www.gov.br/gestao/pt-br/identidade-nacional) | Versão física precede a digital no gov.br; emissão pelos órgãos estaduais/DF. Reproduz somente esses pontos; a página contém informações históricas não generalizadas para 2026. |
+| DOC05 | [Aplicativo e-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo) | Download oficial, confirmação de identidade, senha e condição de acesso. Não dá interpretação sobre direitos eleitorais individuais. |
+| CID01 | [Registrar manifestação de ouvidoria junto à CGU](https://www.gov.br/pt-br/servicos/registrar-manifestacao-no-sistema-de-ouvidorias-do-poder-executivo-federal) | Tipos de manifestação, relato, órgão de destino e acompanhamento. Confirmar se o destinatário usa Fala.BR. |
+| CID02 | [Susep: pedidos de informação passam ao Informa.BR](https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/julho-1/pedidos-de-acesso-a-informacao-passam-a-ser-registrados-pelo-informa.br) | Notícia de 08/07/2026: pesquisa pública e pedidos autenticados no Informa.BR; ouvidoria permanece no Fala.BR. Recorte federal. |
+| CID03 | [Consumidor.gov.br: plataforma oficial](https://www.consumidor.gov.br/pages/principal/) (principal); [MJSP: como registrar reclamação](https://www.gov.br/mj/pt-br/assuntos/noticias/consumidor-gov-br-saiba-como-registrar-uma-reclamacao-pela-plataforma) (complementar) | Empresa participante, exigência de conta gov.br prata ou ouro, registro, acompanhamento e avaliação; revisão em 18/11/2026. O resumo usa somente o fluxo sustentado pela página principal; a notícia do MJSP complementa a preparação de documentos. Não promete solução. |
+| CID04 | [Consultar CPF na Receita Federal](https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas?id=9917&origem=servico) | Canal de consulta cadastral e comprovante. Regularização e situação fiscal não são respondidas pelo registro. |
+| CID05 | [MDS: perguntas frequentes do Cadastro Único](https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico/) | Seção sobre mapas: Mapa Social localiza serviços municipais de assistência social. Não mantém endereços ou horários no protótipo. |
+
+**Conferências adicionais:** a [página do MDS sobre o CRAS](https://www.gov.br/mds/pt-br/acoes-e-programas/suas/unidades-de-atendimento/centro-de-referencia-de-assistencia-social-cras) identifica o CRAS como unidade pública de assistência social. A [página da CAPES sobre Informa.BR](https://www.gov.br/capes/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/plataforma-informa.br) também indica a plataforma para pedidos. A [página oficial do Consumidor.gov.br](https://www.consumidor.gov.br/pages/principal/) permite conferir as condições vigentes do serviço.
+
+## Cuidados na atualização
+
+1. Abra cada referência e confira se a orientação ainda está sustentada. Não atualize a data de verificação sem revisar o conteúdo.
+2. Revise tanto `orientacao` quanto `passos` e `aviso`; os dois modelos de resposta usam os mesmos fatos.
+3. Corrija ou remova o registro se a referência desaparecer ou ficar insuficiente. Em mudanças, execute os testes afetados e registre a revisão.
+4. Mantenha a informação geral separada do atendimento oficial: o protótipo não consulta bases governamentais nem representa órgãos públicos.
+
+Na pesquisa, links antigos de instalação da Carteira Digital de Trânsito retornaram erro. Foram substituídos pela página específica e acessível da Senatran sobre CNH digital. A base usa a denominação **CNH do Brasil**, encontrada nas páginas oficiais consultadas em 2026. A orientação LAI foi atualizada para **Informa.BR** em vez de repetir instruções antigas sobre Fala.BR.

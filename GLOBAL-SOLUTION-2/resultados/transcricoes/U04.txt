@@ -1,0 +1,54 @@
+
+CITIZEN ASSIST AI
+
+Assistente educativo de orientação cidadã. Não é um canal oficial.
+As respostas vêm de uma base local e podem exigir confirmação na fonte.
+Não informe CPF, senha, documentos ou outros dados pessoais.
+As perguntas não são gravadas nem enviadas a serviços externos.
+
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Qual é sua dúvida? (0 para voltar): 
+Há mais de um assunto possível. Escolha a orientação desejada.
+
+Escolha o assunto que corresponde à sua dúvida:
+1. Acessar a Carteira de Trabalho Digital
+2. Acessar a CNH digital
+3. Obter o documento digital do veículo
+4. Acessar a Carteira de Identidade Nacional digital
+5. Acessar o título eleitoral digital
+0. Voltar
+Escolha: 
+DOC01 - Acessar a Carteira de Trabalho Digital
+
+A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.
+
+Como consultar:
+1. Abra o serviço oficial Obter a Carteira de Trabalho.
+2. Escolha o aplicativo para seu celular ou o acesso web.
+3. Entre com sua conta gov.br no canal oficial e consulte a carteira.
+
+Fonte: Ministério do Trabalho e Emprego - Obter a Carteira de Trabalho
+https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
+Verificado em: 2026-11-10
+Atenção: Este assistente não consulta vínculos de trabalho. Para dificuldade de acesso ou dados, utilize o atendimento indicado pelo Ministério do Trabalho e Emprego.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.
+
+Continuar por um assunto relacionado:
+1. Criar uma conta gov.br
+2. Recuperar a senha gov.br
+3. Consultar a situação cadastral do CPF
+0. Voltar
+Escolha: 
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: Consulta encerrada.

@@ -1,0 +1,431 @@
+﻿teste,categoria,modelo,pergunta,status_esperado,registro_esperado,resposta_esperada,fonte_esperada,status_obtido,registro_obtido,resposta_obtida,candidatos,acerto,tempo_ms
+T01,direta,A,Como criar uma conta gov.br?,encontrado,GOV01,"Você pode criar a conta pelo site ou pelo aplicativo gov.br. Acesse a opção de criação, informe o CPF somente no canal oficial e siga as instruções de validação e definição de senha. O cadastro é gratuito para quem possui registro no CPF.",https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br,encontrado,GOV01,"GOV01 - Criar uma conta gov.br
+
+Você pode criar a conta pelo site ou pelo aplicativo gov.br. Acesse a opção de criação, informe o CPF somente no canal oficial e siga as instruções de validação e definição de senha. O cadastro é gratuito para quem possui registro no CPF.
+
+Fonte: Governo Federal - Criar sua conta GOV.BR
+https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br
+Verificado em: 2026-11-10
+Atenção: Este protótipo não cria contas nem recebe CPF ou senha. Cada serviço pode exigir um nível de conta diferente; confirme na página oficial.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.6561
+T02,direta,A,Como recuperar a senha da conta gov.br?,encontrado,GOV02,"Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.",https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/,encontrado,GOV02,"GOV02 - Recuperar a senha gov.br
+
+Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.
+
+Fonte: Governo Digital - Recuperar senha da conta gov.br
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificado em: 2026-11-10
+Atenção: Não informe senha ou códigos neste assistente. A recuperação pode alterar o nível da conta; dificuldades com verificação em duas etapas têm fluxo próprio no atendimento gov.br.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.158
+T03,direta,A,Como aumentar o nível da conta gov.br para prata ou ouro?,encontrado,GOV03,"A conta gov.br possui os níveis bronze, prata e ouro. No aplicativo, selecione Aumentar nível e siga uma forma de validação disponível para você. As alternativas variam, incluindo validação por banco credenciado, reconhecimento facial ou outros meios descritos na página oficial.",https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr,encontrado,GOV03,"GOV03 - Consultar e aumentar o nível da conta
+
+A conta gov.br possui os níveis bronze, prata e ouro. No aplicativo, selecione Aumentar nível e siga uma forma de validação disponível para você. As alternativas variam, incluindo validação por banco credenciado, reconhecimento facial ou outros meios descritos na página oficial.
+
+Fonte: Governo Digital - Níveis da conta gov.br
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr
+Verificado em: 2026-11-10
+Atenção: O assistente não valida identidade nem garante a mudança de nível. As opções dependem das bases e credenciais disponíveis para o titular.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.2892
+T04,direta,A,Como ativar a verificação em duas etapas no gov.br?,encontrado,GOV04,"Com uma conta prata ou ouro, entre no aplicativo gov.br e abra Segurança da conta para ativar a verificação em duas etapas. O código de acesso é gerado no aplicativo vinculado à conta. Mantenha data e hora do celular sincronizadas e confira a opção de cadastrar um e-mail de recuperação.",https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas/ativar-a-verificacao-em-duas-etapas/,encontrado,GOV04,"GOV04 - Ativar verificação em duas etapas
+
+Com uma conta prata ou ouro, entre no aplicativo gov.br e abra Segurança da conta para ativar a verificação em duas etapas. O código de acesso é gerado no aplicativo vinculado à conta. Mantenha data e hora do celular sincronizadas e confira a opção de cadastrar um e-mail de recuperação.
+
+Fonte: Governo Digital - Ativar a verificação em duas etapas
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas/ativar-a-verificacao-em-duas-etapas/
+Verificado em: 2026-11-10
+Atenção: Não compartilhe códigos de acesso. A perda do vínculo com o celular pode exigir recuperação pelo canal oficial; este protótipo não desativa a proteção.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.5681
+T05,direta,A,Como alterar meu e-mail ou telefone na conta gov.br?,encontrado,GOV05,"Se você consegue entrar na conta gov.br, abra a opção de alteração dos dados cadastrais e edite o e-mail ou telefone. A alteração precisa ser validada por um código enviado ao contato que será cadastrado. Faça esse procedimento somente na conta oficial.",https://acesso.gov.br/faq/_perguntasdafaq/alterardadoscadastrais.html,encontrado,GOV05,"GOV05 - Atualizar e-mail ou telefone da conta
+
+Se você consegue entrar na conta gov.br, abra a opção de alteração dos dados cadastrais e edite o e-mail ou telefone. A alteração precisa ser validada por um código enviado ao contato que será cadastrado. Faça esse procedimento somente na conta oficial.
+
+Fonte: Conta gov.br - Alterar dados cadastrais
+https://acesso.gov.br/faq/_perguntasdafaq/alterardadoscadastrais.html
+Verificado em: 2026-11-10
+Atenção: Esta orientação pressupõe acesso à conta. Se você não consegue entrar, consulte a recuperação de senha. Não digite seus contatos ou códigos neste protótipo.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.2928
+T06,direta,A,Como acessar a Carteira de Trabalho Digital?,encontrado,DOC01,A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.,https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho,encontrado,DOC01,"DOC01 - Acessar a Carteira de Trabalho Digital
+
+A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.
+
+Fonte: Ministério do Trabalho e Emprego - Obter a Carteira de Trabalho
+https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
+Verificado em: 2026-11-10
+Atenção: Este assistente não consulta vínculos de trabalho. Para dificuldade de acesso ou dados, utilize o atendimento indicado pelo Ministério do Trabalho e Emprego.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1534
+T07,direta,A,Como acessar a CNH digital?,encontrado,DOC02,"A CNH digital é acessada pelo aplicativo oficial CNH do Brasil com login gov.br. A página do serviço exige CNH válida com QR Code e orienta a validação da identidade no aplicativo. Se houver erro ao gerar o documento, consulte o Detran onde a habilitação foi emitida.",https://www.gov.br/pt-br/servicos/emitir-a-carteira-nacional-de-habilitacao-digital-cnh-e?id=7635&origem=servico,encontrado,DOC02,"DOC02 - Acessar a CNH digital
+
+A CNH digital é acessada pelo aplicativo oficial CNH do Brasil com login gov.br. A página do serviço exige CNH válida com QR Code e orienta a validação da identidade no aplicativo. Se houver erro ao gerar o documento, consulte o Detran onde a habilitação foi emitida.
+
+Fonte: Senatran - Emitir a Carteira Nacional de Habilitação Digital
+https://www.gov.br/pt-br/servicos/emitir-a-carteira-nacional-de-habilitacao-digital-cnh-e?id=7635&origem=servico
+Verificado em: 2026-11-10
+Atenção: Este registro trata do acesso digital à habilitação existente. Primeira habilitação, renovação e regularização devem ser verificadas nos canais oficiais específicos.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1298
+T08,direta,A,Como obter o CRLV-e do veículo?,encontrado,DOC03,"O proprietário pode acessar o CRLV-e pelo aplicativo CNH do Brasil ou pelo Portal de Serviços Senatran. No portal, entre com gov.br, abra Veículos, escolha Consultar Meus Veículos e selecione o veículo para obter o CRLV Digital em PDF.",https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-registro-e-licenciamento-de-veiculo-digital-crlv-e?id=23479&origem=servico,encontrado,DOC03,"DOC03 - Obter o documento digital do veículo
+
+O proprietário pode acessar o CRLV-e pelo aplicativo CNH do Brasil ou pelo Portal de Serviços Senatran. No portal, entre com gov.br, abra Veículos, escolha Consultar Meus Veículos e selecione o veículo para obter o CRLV Digital em PDF.
+
+Fonte: Senatran - Emitir o Certificado de Registro e Licenciamento de Veículo Digital
+https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-registro-e-licenciamento-de-veiculo-digital-crlv-e?id=23479&origem=servico
+Verificado em: 2026-11-10
+Atenção: O protótipo não verifica débitos, propriedade ou disponibilidade do documento. Para impedimentos, confirme a situação com a Senatran ou o Detran responsável.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1566
+T09,direta,A,Como acessar a CIN digital depois de emitir a carteira física?,encontrado,DOC04,"Depois de receber a Carteira de Identidade Nacional física, o titular pode acessar a versão digital pelo aplicativo gov.br. A emissão da versão física é realizada pelos órgãos de identificação dos estados e do Distrito Federal; confira o procedimento no órgão responsável.",https://www.gov.br/gestao/pt-br/identidade-nacional,encontrado,DOC04,"DOC04 - Acessar a Carteira de Identidade Nacional digital
+
+Depois de receber a Carteira de Identidade Nacional física, o titular pode acessar a versão digital pelo aplicativo gov.br. A emissão da versão física é realizada pelos órgãos de identificação dos estados e do Distrito Federal; confira o procedimento no órgão responsável.
+
+Fonte: Ministério da Gestão - Perguntas e Respostas sobre a Carteira de Identidade Nacional
+https://www.gov.br/gestao/pt-br/identidade-nacional
+Verificado em: 2026-11-10
+Atenção: A orientação refere-se à CIN, não a todo RG antigo. Agendamento, documentos exigidos e disponibilidade devem ser confirmados no órgão emissor; o protótipo não emite identidade.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.5889
+T10,direta,A,Como acessar meu título eleitoral pelo e-Título?,encontrado,DOC05,"O e-Título é o aplicativo gratuito da Justiça Eleitoral para acessar a via digital do título. Baixe-o pelos links oficiais do TSE, informe os dados no aplicativo, confirme a identidade e crie uma senha. Os dados precisam corresponder ao último atendimento na Justiça Eleitoral.",https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo,encontrado,DOC05,"DOC05 - Acessar o título eleitoral digital
+
+O e-Título é o aplicativo gratuito da Justiça Eleitoral para acessar a via digital do título. Baixe-o pelos links oficiais do TSE, informe os dados no aplicativo, confirme a identidade e crie uma senha. Os dados precisam corresponder ao último atendimento na Justiça Eleitoral.
+
+Fonte: Tribunal Superior Eleitoral - Aplicativo e-Título
+https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo
+Verificado em: 2026-11-10
+Atenção: Segundo o TSE, o acesso está disponível para inscrições regulares ou suspensas com identidade validada. Acesso ao aplicativo não elimina restrições eleitorais nem autoriza votar automaticamente.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1981
+T11,direta,A,Como registrar uma manifestação na ouvidoria pelo Fala.BR?,encontrado,CID01,"O Fala.BR permite registrar manifestações como reclamações, sugestões e elogios. Acesse a plataforma pelo serviço oficial, descreva o fato, confira o tipo de manifestação e escolha o órgão de destino. Guarde o protocolo para acompanhar o tratamento pelo canal oficial.",https://www.gov.br/pt-br/servicos/registrar-manifestacao-no-sistema-de-ouvidorias-do-poder-executivo-federal,encontrado,CID01,"CID01 - Registrar manifestação de ouvidoria
+
+O Fala.BR permite registrar manifestações como reclamações, sugestões e elogios. Acesse a plataforma pelo serviço oficial, descreva o fato, confira o tipo de manifestação e escolha o órgão de destino. Guarde o protocolo para acompanhar o tratamento pelo canal oficial.
+
+Fonte: Controladoria-Geral da União - Registrar manifestação de ouvidoria
+https://www.gov.br/pt-br/servicos/registrar-manifestacao-no-sistema-de-ouvidorias-do-poder-executivo-federal
+Verificado em: 2026-11-10
+Atenção: Confirme se o órgão destinatário utiliza a plataforma. Denúncias sem identificação possuem limitações de acompanhamento; este protótipo não recebe nem encaminha manifestações.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.173
+T12,direta,A,Como fazer um pedido de acesso à informação pública pela LAI?,encontrado,CID02,"Na plataforma Informa.BR, pesquise primeiro as informações públicas já disponíveis nas bases oficiais do Governo Federal. Se não encontrar o que precisa, registre um pedido de acesso à informação com autenticação gov.br e identifique o órgão responsável. Manifestações de ouvidoria continuam no Fala.BR.",https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/julho-1/pedidos-de-acesso-a-informacao-passam-a-ser-registrados-pelo-informa.br,encontrado,CID02,"CID02 - Pedir acesso a informações públicas
+
+Na plataforma Informa.BR, pesquise primeiro as informações públicas já disponíveis nas bases oficiais do Governo Federal. Se não encontrar o que precisa, registre um pedido de acesso à informação com autenticação gov.br e identifique o órgão responsável. Manifestações de ouvidoria continuam no Fala.BR.
+
+Fonte: Susep - Pedidos de acesso à informação passam a ser registrados pelo Informa.BR
+https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/julho-1/pedidos-de-acesso-a-informacao-passam-a-ser-registrados-pelo-informa.br
+Verificado em: 2026-11-10
+Atenção: Orientação sobre o canal federal conferida em 2026. Estados, municípios e outros Poderes podem ter canais próprios. Este protótipo não protocola pedidos nem decide sobre acesso ou sigilo.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1901
+T13,direta,A,Como reclamar de uma empresa no Consumidor.gov.br?,encontrado,CID03,"No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.",https://www.consumidor.gov.br/pages/principal/,encontrado,CID03,"CID03 - Reclamar de uma empresa no Consumidor.gov.br
+
+No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.
+
+Fonte: Consumidor.gov.br - Plataforma oficial
+https://www.consumidor.gov.br/pages/principal/
+Verificado em: 2026-11-18
+Atenção: A plataforma atende empresas participantes e não garante solução individual. Confira os requisitos de login e uso diretamente no serviço; não envie comprovantes ou dados pessoais a este assistente.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.204
+T14,direta,A,Como consultar a situação cadastral do meu CPF?,encontrado,CID04,A Receita Federal oferece consulta da situação cadastral do CPF e emissão do respectivo comprovante. Abra o serviço oficial e escolha Consultar Situação do CPF. Informe os dados solicitados apenas no sistema da Receita e confira o resultado apresentado.,https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas?id=9917&origem=servico,encontrado,CID04,"CID04 - Consultar a situação cadastral do CPF
+
+A Receita Federal oferece consulta da situação cadastral do CPF e emissão do respectivo comprovante. Abra o serviço oficial e escolha Consultar Situação do CPF. Informe os dados solicitados apenas no sistema da Receita e confira o resultado apresentado.
+
+Fonte: Receita Federal - Consultar Cadastro de Pessoa Física
+https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas?id=9917&origem=servico
+Verificado em: 2026-11-10
+Atenção: O protótipo não consulta CPF nem recebe números de documentos. Para entender pendências ou procedimentos de regularização, siga a orientação específica da Receita Federal.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.5218
+T15,direta,A,Como localizar um CRAS perto de mim?,encontrado,CID05,"O Mapa Social do MDS permite localizar serviços públicos, especialmente da assistência social, nos municípios brasileiros. Consulte o mapa para identificar unidades na sua região e confirme endereço, horário e forma de atendimento com a unidade ou a prefeitura antes de se deslocar.",https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico/,encontrado,CID05,"CID05 - Encontrar uma unidade CRAS
+
+O Mapa Social do MDS permite localizar serviços públicos, especialmente da assistência social, nos municípios brasileiros. Consulte o mapa para identificar unidades na sua região e confirme endereço, horário e forma de atendimento com a unidade ou a prefeitura antes de se deslocar.
+
+Fonte: Ministério do Desenvolvimento Social - Perguntas frequentes, Mapa Social
+https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico/
+Verificado em: 2026-11-10
+Atenção: A base não contém endereços locais nem verifica benefícios. O atendimento e os dados de cada unidade devem ser confirmados no município; não informe seu endereço pessoal neste protótipo.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.3902
+T16,reformulacao,A,Esqueci minha senha do gov.br. Como recupero o acesso?,encontrado,GOV02,"Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.",https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/,encontrado,GOV02,"GOV02 - Recuperar a senha gov.br
+
+Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.
+
+Fonte: Governo Digital - Recuperar senha da conta gov.br
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificado em: 2026-11-10
+Atenção: Não informe senha ou códigos neste assistente. A recuperação pode alterar o nível da conta; dificuldades com verificação em duas etapas têm fluxo próprio no atendimento gov.br.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.0621
+T17,reformulacao,A,Quero ver minha carteira de trabalho no celular.,encontrado,DOC01,A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.,https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho,encontrado,DOC01,"DOC01 - Acessar a Carteira de Trabalho Digital
+
+A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.
+
+Fonte: Ministério do Trabalho e Emprego - Obter a Carteira de Trabalho
+https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
+Verificado em: 2026-11-10
+Atenção: Este assistente não consulta vínculos de trabalho. Para dificuldade de acesso ou dados, utilize o atendimento indicado pelo Ministério do Trabalho e Emprego.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.0572
+T18,reformulacao,A,Preciso reclamar de uma empresa. Posso usar o portal Consumidor.gov?,encontrado,CID03,"No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.",https://www.consumidor.gov.br/pages/principal/,encontrado,CID03,"CID03 - Reclamar de uma empresa no Consumidor.gov.br
+
+No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.
+
+Fonte: Consumidor.gov.br - Plataforma oficial
+https://www.consumidor.gov.br/pages/principal/
+Verificado em: 2026-11-18
+Atenção: A plataforma atende empresas participantes e não garante solução individual. Confira os requisitos de login e uso diretamente no serviço; não envie comprovantes ou dados pessoais a este assistente.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1032
+T19,fora_escopo,A,Como emitir meu passaporte?,sem_resposta,,sem_resposta,,sem_resposta,,Não encontrei uma orientação confiável na base para essa pergunta. Escolha um tema ou consulte a fonte oficial adequada.,,1,3.3694
+T20,fora_escopo,A,Quero agendar uma consulta médica no SUS.,sem_resposta,,sem_resposta,,sem_resposta,,Não encontrei uma orientação confiável na base para essa pergunta. Escolha um tema ou consulte a fonte oficial adequada.,,1,3.2493
+T21,fora_escopo,A,Como conseguir financiamento para comprar uma casa?,sem_resposta,,sem_resposta,,sem_resposta,,Não encontrei uma orientação confiável na base para essa pergunta. Escolha um tema ou consulte a fonte oficial adequada.,,1,3.1619
+T22,fora_escopo,A,Como recuperar a senha do meu Wi-Fi?,sem_resposta,,sem_resposta,,sem_resposta,,A correspondência é insuficiente para orientar com segurança. Especifique o assunto ou escolha uma opção do menu.,,1,3.1944
+T23,fora_escopo,A,Como alterar o telefone da minha conta bancária?,sem_resposta,,sem_resposta,,sem_resposta,,A correspondência é insuficiente para orientar com segurança. Especifique o assunto ou escolha uma opção do menu.,,1,3.1753
+T24,ambiguidade,A,documento digital,ambiguo,,ambiguo,,ambiguo,,Há mais de um assunto possível. Escolha a orientação desejada.,DOC01;DOC02;DOC03;DOC04;DOC05,1,0.0232
+T25,ambiguidade,A,conta gov.br,ambiguo,,ambiguo,,ambiguo,,Há mais de um assunto possível. Escolha a orientação desejada.,GOV01;GOV02;GOV03;GOV04;GOV05,1,0.0178
+T26,entrada_invalida,A,,invalido,,invalido,,invalido,,Digite uma pergunta ou escolha um tema no menu.,,1,0.0014
+T01,direta,B,Como criar uma conta gov.br?,encontrado,GOV01,"Você pode criar a conta pelo site ou pelo aplicativo gov.br. Acesse a opção de criação, informe o CPF somente no canal oficial e siga as instruções de validação e definição de senha. O cadastro é gratuito para quem possui registro no CPF.",https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br,encontrado,GOV01,"GOV01 - Criar uma conta gov.br
+
+Você pode criar a conta pelo site ou pelo aplicativo gov.br. Acesse a opção de criação, informe o CPF somente no canal oficial e siga as instruções de validação e definição de senha. O cadastro é gratuito para quem possui registro no CPF.
+
+Como consultar:
+1. Abra o serviço oficial Criar sua conta GOV.BR.
+2. Escolha o site ou aplicativo e inicie o cadastro.
+3. Siga a validação de identidade e crie a senha no ambiente oficial.
+
+Fonte: Governo Federal - Criar sua conta GOV.BR
+https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br
+Verificado em: 2026-11-10
+Atenção: Este protótipo não cria contas nem recebe CPF ou senha. Cada serviço pode exigir um nível de conta diferente; confirme na página oficial.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.2991
+T02,direta,B,Como recuperar a senha da conta gov.br?,encontrado,GOV02,"Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.",https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/,encontrado,GOV02,"GOV02 - Recuperar a senha gov.br
+
+Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.
+
+Como consultar:
+1. Acesse o login gov.br pelo serviço oficial.
+2. Escolha Esqueci minha senha após informar o CPF.
+3. Siga uma alternativa disponível ou o atendimento indicado pelo gov.br.
+
+Fonte: Governo Digital - Recuperar senha da conta gov.br
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificado em: 2026-11-10
+Atenção: Não informe senha ou códigos neste assistente. A recuperação pode alterar o nível da conta; dificuldades com verificação em duas etapas têm fluxo próprio no atendimento gov.br.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.5358
+T03,direta,B,Como aumentar o nível da conta gov.br para prata ou ouro?,encontrado,GOV03,"A conta gov.br possui os níveis bronze, prata e ouro. No aplicativo, selecione Aumentar nível e siga uma forma de validação disponível para você. As alternativas variam, incluindo validação por banco credenciado, reconhecimento facial ou outros meios descritos na página oficial.",https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr,encontrado,GOV03,"GOV03 - Consultar e aumentar o nível da conta
+
+A conta gov.br possui os níveis bronze, prata e ouro. No aplicativo, selecione Aumentar nível e siga uma forma de validação disponível para você. As alternativas variam, incluindo validação por banco credenciado, reconhecimento facial ou outros meios descritos na página oficial.
+
+Como consultar:
+1. Entre no aplicativo gov.br com sua conta.
+2. Selecione Aumentar nível na tela inicial.
+3. Confira os requisitos e conclua uma validação disponível.
+
+Fonte: Governo Digital - Níveis da conta gov.br
+https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr
+Verificado em: 2026-11-10
+Atenção: O assistente não valida identidade nem garante a mudança de nível. As opções dependem das bases e credenciais disponíveis para o titular.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.0875
+T04,direta,B,Como ativar a verificação em duas etapas no gov.br?,encontrado,GOV04,"Com uma conta prata ou ouro, entre no aplicativo gov.br e abra Segurança da conta para ativar a verificação em duas etapas. O código de acesso é gerado no aplicativo vinculado à conta. Mantenha data e hora do celular sincronizadas e confira a opção de cadastrar um e-mail de recuperação.",https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas/ativar-a-verificacao-em-duas-etapas/,encontrado,GOV04,"GOV04 - Ativar verificação em duas etapas
+
+Com uma conta prata ou ouro, entre no aplicativo gov.br e abra Segurança da conta para ativar a verificação em duas etapas. O código de acesso é gerado no aplicativo vinculado à conta. Mantenha data e hora do celular sincronizadas e confira a opção de cadastrar um e-mail de recuperação.
+
+Como consultar:
+1. Confira se a conta é prata ou ouro e acesse o aplicativo gov.br.
+2. Em Segurança da conta, habilite Verificação em duas etapas.
+3. Leia os cuidados de recuperação antes de trocar o celular ou remover o aplicativo.
+
+Fonte: Governo Digital - Ativar a verificação em duas etapas
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas/ativar-a-verificacao-em-duas-etapas/
+Verificado em: 2026-11-10
+Atenção: Não compartilhe códigos de acesso. A perda do vínculo com o celular pode exigir recuperação pelo canal oficial; este protótipo não desativa a proteção.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.0887
+T05,direta,B,Como alterar meu e-mail ou telefone na conta gov.br?,encontrado,GOV05,"Se você consegue entrar na conta gov.br, abra a opção de alteração dos dados cadastrais e edite o e-mail ou telefone. A alteração precisa ser validada por um código enviado ao contato que será cadastrado. Faça esse procedimento somente na conta oficial.",https://acesso.gov.br/faq/_perguntasdafaq/alterardadoscadastrais.html,encontrado,GOV05,"GOV05 - Atualizar e-mail ou telefone da conta
+
+Se você consegue entrar na conta gov.br, abra a opção de alteração dos dados cadastrais e edite o e-mail ou telefone. A alteração precisa ser validada por um código enviado ao contato que será cadastrado. Faça esse procedimento somente na conta oficial.
+
+Como consultar:
+1. Entre na sua conta gov.br.
+2. Abra os dados cadastrais e edite o e-mail ou telefone desejado.
+3. Confirme o código enviado ao novo contato no ambiente oficial.
+
+Fonte: Conta gov.br - Alterar dados cadastrais
+https://acesso.gov.br/faq/_perguntasdafaq/alterardadoscadastrais.html
+Verificado em: 2026-11-10
+Atenção: Esta orientação pressupõe acesso à conta. Se você não consegue entrar, consulte a recuperação de senha. Não digite seus contatos ou códigos neste protótipo.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.087
+T06,direta,B,Como acessar a Carteira de Trabalho Digital?,encontrado,DOC01,A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.,https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho,encontrado,DOC01,"DOC01 - Acessar a Carteira de Trabalho Digital
+
+A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.
+
+Como consultar:
+1. Abra o serviço oficial Obter a Carteira de Trabalho.
+2. Escolha o aplicativo para seu celular ou o acesso web.
+3. Entre com sua conta gov.br no canal oficial e consulte a carteira.
+
+Fonte: Ministério do Trabalho e Emprego - Obter a Carteira de Trabalho
+https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
+Verificado em: 2026-11-10
+Atenção: Este assistente não consulta vínculos de trabalho. Para dificuldade de acesso ou dados, utilize o atendimento indicado pelo Ministério do Trabalho e Emprego.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.2269
+T07,direta,B,Como acessar a CNH digital?,encontrado,DOC02,"A CNH digital é acessada pelo aplicativo oficial CNH do Brasil com login gov.br. A página do serviço exige CNH válida com QR Code e orienta a validação da identidade no aplicativo. Se houver erro ao gerar o documento, consulte o Detran onde a habilitação foi emitida.",https://www.gov.br/pt-br/servicos/emitir-a-carteira-nacional-de-habilitacao-digital-cnh-e?id=7635&origem=servico,encontrado,DOC02,"DOC02 - Acessar a CNH digital
+
+A CNH digital é acessada pelo aplicativo oficial CNH do Brasil com login gov.br. A página do serviço exige CNH válida com QR Code e orienta a validação da identidade no aplicativo. Se houver erro ao gerar o documento, consulte o Detran onde a habilitação foi emitida.
+
+Como consultar:
+1. Confira na página oficial os requisitos da CNH digital.
+2. Instale o aplicativo CNH do Brasil pelo link oficial e entre com gov.br.
+3. Siga a validação solicitada para gerar o documento; em caso de erro, procure o Detran emissor.
+
+Fonte: Senatran - Emitir a Carteira Nacional de Habilitação Digital
+https://www.gov.br/pt-br/servicos/emitir-a-carteira-nacional-de-habilitacao-digital-cnh-e?id=7635&origem=servico
+Verificado em: 2026-11-10
+Atenção: Este registro trata do acesso digital à habilitação existente. Primeira habilitação, renovação e regularização devem ser verificadas nos canais oficiais específicos.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.3607
+T08,direta,B,Como obter o CRLV-e do veículo?,encontrado,DOC03,"O proprietário pode acessar o CRLV-e pelo aplicativo CNH do Brasil ou pelo Portal de Serviços Senatran. No portal, entre com gov.br, abra Veículos, escolha Consultar Meus Veículos e selecione o veículo para obter o CRLV Digital em PDF.",https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-registro-e-licenciamento-de-veiculo-digital-crlv-e?id=23479&origem=servico,encontrado,DOC03,"DOC03 - Obter o documento digital do veículo
+
+O proprietário pode acessar o CRLV-e pelo aplicativo CNH do Brasil ou pelo Portal de Serviços Senatran. No portal, entre com gov.br, abra Veículos, escolha Consultar Meus Veículos e selecione o veículo para obter o CRLV Digital em PDF.
+
+Como consultar:
+1. Abra o serviço oficial de emissão do CRLV-e.
+2. Acesse o Portal de Serviços Senatran com sua conta gov.br.
+3. Em Veículos, consulte seus veículos, selecione o desejado e obtenha o CRLV Digital em PDF.
+
+Fonte: Senatran - Emitir o Certificado de Registro e Licenciamento de Veículo Digital
+https://www.gov.br/pt-br/servicos/emitir-o-certificado-de-registro-e-licenciamento-de-veiculo-digital-crlv-e?id=23479&origem=servico
+Verificado em: 2026-11-10
+Atenção: O protótipo não verifica débitos, propriedade ou disponibilidade do documento. Para impedimentos, confirme a situação com a Senatran ou o Detran responsável.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1706
+T09,direta,B,Como acessar a CIN digital depois de emitir a carteira física?,encontrado,DOC04,"Depois de receber a Carteira de Identidade Nacional física, o titular pode acessar a versão digital pelo aplicativo gov.br. A emissão da versão física é realizada pelos órgãos de identificação dos estados e do Distrito Federal; confira o procedimento no órgão responsável.",https://www.gov.br/gestao/pt-br/identidade-nacional,encontrado,DOC04,"DOC04 - Acessar a Carteira de Identidade Nacional digital
+
+Depois de receber a Carteira de Identidade Nacional física, o titular pode acessar a versão digital pelo aplicativo gov.br. A emissão da versão física é realizada pelos órgãos de identificação dos estados e do Distrito Federal; confira o procedimento no órgão responsável.
+
+Como consultar:
+1. Confira com o órgão de identificação do seu estado ou do Distrito Federal a emissão da CIN física.
+2. Após receber a CIN física, entre no aplicativo gov.br.
+3. Consulte a versão digital conforme as orientações oficiais sobre a CIN.
+
+Fonte: Ministério da Gestão - Perguntas e Respostas sobre a Carteira de Identidade Nacional
+https://www.gov.br/gestao/pt-br/identidade-nacional
+Verificado em: 2026-11-10
+Atenção: A orientação refere-se à CIN, não a todo RG antigo. Agendamento, documentos exigidos e disponibilidade devem ser confirmados no órgão emissor; o protótipo não emite identidade.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1924
+T10,direta,B,Como acessar meu título eleitoral pelo e-Título?,encontrado,DOC05,"O e-Título é o aplicativo gratuito da Justiça Eleitoral para acessar a via digital do título. Baixe-o pelos links oficiais do TSE, informe os dados no aplicativo, confirme a identidade e crie uma senha. Os dados precisam corresponder ao último atendimento na Justiça Eleitoral.",https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo,encontrado,DOC05,"DOC05 - Acessar o título eleitoral digital
+
+O e-Título é o aplicativo gratuito da Justiça Eleitoral para acessar a via digital do título. Baixe-o pelos links oficiais do TSE, informe os dados no aplicativo, confirme a identidade e crie uma senha. Os dados precisam corresponder ao último atendimento na Justiça Eleitoral.
+
+Como consultar:
+1. Abra a página oficial do TSE e instale o e-Título para Android ou iOS.
+2. Preencha seus dados somente no aplicativo e responda à confirmação de identidade.
+3. Crie a senha e confira o documento apresentado.
+
+Fonte: Tribunal Superior Eleitoral - Aplicativo e-Título
+https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo
+Verificado em: 2026-11-10
+Atenção: Segundo o TSE, o acesso está disponível para inscrições regulares ou suspensas com identidade validada. Acesso ao aplicativo não elimina restrições eleitorais nem autoriza votar automaticamente.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.1839
+T11,direta,B,Como registrar uma manifestação na ouvidoria pelo Fala.BR?,encontrado,CID01,"O Fala.BR permite registrar manifestações como reclamações, sugestões e elogios. Acesse a plataforma pelo serviço oficial, descreva o fato, confira o tipo de manifestação e escolha o órgão de destino. Guarde o protocolo para acompanhar o tratamento pelo canal oficial.",https://www.gov.br/pt-br/servicos/registrar-manifestacao-no-sistema-de-ouvidorias-do-poder-executivo-federal,encontrado,CID01,"CID01 - Registrar manifestação de ouvidoria
+
+O Fala.BR permite registrar manifestações como reclamações, sugestões e elogios. Acesse a plataforma pelo serviço oficial, descreva o fato, confira o tipo de manifestação e escolha o órgão de destino. Guarde o protocolo para acompanhar o tratamento pelo canal oficial.
+
+Como consultar:
+1. Acesse o Fala.BR pelo link do serviço oficial e identifique-se quando exigido.
+2. Descreva o fato, confira o tipo de manifestação e selecione o órgão competente.
+3. Revise o registro e guarde o protocolo para acompanhar a resposta.
+
+Fonte: Controladoria-Geral da União - Registrar manifestação de ouvidoria
+https://www.gov.br/pt-br/servicos/registrar-manifestacao-no-sistema-de-ouvidorias-do-poder-executivo-federal
+Verificado em: 2026-11-10
+Atenção: Confirme se o órgão destinatário utiliza a plataforma. Denúncias sem identificação possuem limitações de acompanhamento; este protótipo não recebe nem encaminha manifestações.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.3409
+T12,direta,B,Como fazer um pedido de acesso à informação pública pela LAI?,encontrado,CID02,"Na plataforma Informa.BR, pesquise primeiro as informações públicas já disponíveis nas bases oficiais do Governo Federal. Se não encontrar o que precisa, registre um pedido de acesso à informação com autenticação gov.br e identifique o órgão responsável. Manifestações de ouvidoria continuam no Fala.BR.",https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/julho-1/pedidos-de-acesso-a-informacao-passam-a-ser-registrados-pelo-informa.br,encontrado,CID02,"CID02 - Pedir acesso a informações públicas
+
+Na plataforma Informa.BR, pesquise primeiro as informações públicas já disponíveis nas bases oficiais do Governo Federal. Se não encontrar o que precisa, registre um pedido de acesso à informação com autenticação gov.br e identifique o órgão responsável. Manifestações de ouvidoria continuam no Fala.BR.
+
+Como consultar:
+1. Abra o Informa.BR pelo link da página oficial citada.
+2. Pesquise informações e respostas já publicadas.
+3. Se necessário, entre com gov.br e registre o pedido para o órgão responsável.
+
+Fonte: Susep - Pedidos de acesso à informação passam a ser registrados pelo Informa.BR
+https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/julho-1/pedidos-de-acesso-a-informacao-passam-a-ser-registrados-pelo-informa.br
+Verificado em: 2026-11-10
+Atenção: Orientação sobre o canal federal conferida em 2026. Estados, municípios e outros Poderes podem ter canais próprios. Este protótipo não protocola pedidos nem decide sobre acesso ou sigilo.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.7153
+T13,direta,B,Como reclamar de uma empresa no Consumidor.gov.br?,encontrado,CID03,"No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.",https://www.consumidor.gov.br/pages/principal/,encontrado,CID03,"CID03 - Reclamar de uma empresa no Consumidor.gov.br
+
+No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.
+
+Como consultar:
+1. Confira se a empresa consta na plataforma Consumidor.gov.br.
+2. Entre com sua conta gov.br de nível prata ou ouro e registre a reclamação no serviço oficial.
+3. Acompanhe a resposta e registre sua avaliação da solução.
+
+Fonte: Consumidor.gov.br - Plataforma oficial
+https://www.consumidor.gov.br/pages/principal/
+Verificado em: 2026-11-18
+Atenção: A plataforma atende empresas participantes e não garante solução individual. Confira os requisitos de login e uso diretamente no serviço; não envie comprovantes ou dados pessoais a este assistente.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.0837
+T14,direta,B,Como consultar a situação cadastral do meu CPF?,encontrado,CID04,A Receita Federal oferece consulta da situação cadastral do CPF e emissão do respectivo comprovante. Abra o serviço oficial e escolha Consultar Situação do CPF. Informe os dados solicitados apenas no sistema da Receita e confira o resultado apresentado.,https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas?id=9917&origem=servico,encontrado,CID04,"CID04 - Consultar a situação cadastral do CPF
+
+A Receita Federal oferece consulta da situação cadastral do CPF e emissão do respectivo comprovante. Abra o serviço oficial e escolha Consultar Situação do CPF. Informe os dados solicitados apenas no sistema da Receita e confira o resultado apresentado.
+
+Como consultar:
+1. Abra o serviço oficial Consultar Cadastro de Pessoa Física na Receita Federal.
+2. Selecione o canal Consultar Situação do CPF.
+3. Preencha o que o sistema oficial solicitar e consulte o resultado ou comprovante.
+
+Fonte: Receita Federal - Consultar Cadastro de Pessoa Física
+https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas?id=9917&origem=servico
+Verificado em: 2026-11-10
+Atenção: O protótipo não consulta CPF nem recebe números de documentos. Para entender pendências ou procedimentos de regularização, siga a orientação específica da Receita Federal.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.0709
+T15,direta,B,Como localizar um CRAS perto de mim?,encontrado,CID05,"O Mapa Social do MDS permite localizar serviços públicos, especialmente da assistência social, nos municípios brasileiros. Consulte o mapa para identificar unidades na sua região e confirme endereço, horário e forma de atendimento com a unidade ou a prefeitura antes de se deslocar.",https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico/,encontrado,CID05,"CID05 - Encontrar uma unidade CRAS
+
+O Mapa Social do MDS permite localizar serviços públicos, especialmente da assistência social, nos municípios brasileiros. Consulte o mapa para identificar unidades na sua região e confirme endereço, horário e forma de atendimento com a unidade ou a prefeitura antes de se deslocar.
+
+Como consultar:
+1. Abra o Mapa Social do MDS, indicado na página oficial de perguntas frequentes.
+2. Localize seu município e consulte os serviços de assistência social disponíveis.
+3. Confirme os dados e o atendimento do CRAS com a unidade ou prefeitura.
+
+Fonte: Ministério do Desenvolvimento Social - Perguntas frequentes, Mapa Social
+https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico/
+Verificado em: 2026-11-10
+Atenção: A base não contém endereços locais nem verifica benefícios. O atendimento e os dados de cada unidade devem ser confirmados no município; não informe seu endereço pessoal neste protótipo.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.0561
+T16,reformulacao,B,Esqueci minha senha do gov.br. Como recupero o acesso?,encontrado,GOV02,"Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.",https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/,encontrado,GOV02,"GOV02 - Recuperar a senha gov.br
+
+Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.
+
+Como consultar:
+1. Acesse o login gov.br pelo serviço oficial.
+2. Escolha Esqueci minha senha após informar o CPF.
+3. Siga uma alternativa disponível ou o atendimento indicado pelo gov.br.
+
+Fonte: Governo Digital - Recuperar senha da conta gov.br
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificado em: 2026-11-10
+Atenção: Não informe senha ou códigos neste assistente. A recuperação pode alterar o nível da conta; dificuldades com verificação em duas etapas têm fluxo próprio no atendimento gov.br.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.2473
+T17,reformulacao,B,Quero ver minha carteira de trabalho no celular.,encontrado,DOC01,A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.,https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho,encontrado,DOC01,"DOC01 - Acessar a Carteira de Trabalho Digital
+
+A Carteira de Trabalho Digital pode ser acessada pelo aplicativo oficial ou pelo serviço web indicado no portal gov.br. É necessário estar inscrito no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.
+
+Como consultar:
+1. Abra o serviço oficial Obter a Carteira de Trabalho.
+2. Escolha o aplicativo para seu celular ou o acesso web.
+3. Entre com sua conta gov.br no canal oficial e consulte a carteira.
+
+Fonte: Ministério do Trabalho e Emprego - Obter a Carteira de Trabalho
+https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho
+Verificado em: 2026-11-10
+Atenção: Este assistente não consulta vínculos de trabalho. Para dificuldade de acesso ou dados, utilize o atendimento indicado pelo Ministério do Trabalho e Emprego.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.4863
+T18,reformulacao,B,Preciso reclamar de uma empresa. Posso usar o portal Consumidor.gov?,encontrado,CID03,"No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.",https://www.consumidor.gov.br/pages/principal/,encontrado,CID03,"CID03 - Reclamar de uma empresa no Consumidor.gov.br
+
+No Consumidor.gov.br, verifique primeiro se a empresa participa da plataforma. Para registrar e acompanhar a reclamação, é necessário ter conta gov.br de nível prata ou ouro. Registre o problema no serviço oficial, acompanhe a resposta da empresa e avalie se a reclamação foi resolvida.
+
+Como consultar:
+1. Confira se a empresa consta na plataforma Consumidor.gov.br.
+2. Entre com sua conta gov.br de nível prata ou ouro e registre a reclamação no serviço oficial.
+3. Acompanhe a resposta e registre sua avaliação da solução.
+
+Fonte: Consumidor.gov.br - Plataforma oficial
+https://www.consumidor.gov.br/pages/principal/
+Verificado em: 2026-11-18
+Atenção: A plataforma atende empresas participantes e não garante solução individual. Confira os requisitos de login e uso diretamente no serviço; não envie comprovantes ou dados pessoais a este assistente.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.",,1,3.2031
+T19,fora_escopo,B,Como emitir meu passaporte?,sem_resposta,,sem_resposta,,sem_resposta,,Não encontrei uma orientação confiável na base para essa pergunta. Escolha um tema ou consulte a fonte oficial adequada.,,1,3.1713
+T20,fora_escopo,B,Quero agendar uma consulta médica no SUS.,sem_resposta,,sem_resposta,,sem_resposta,,Não encontrei uma orientação confiável na base para essa pergunta. Escolha um tema ou consulte a fonte oficial adequada.,,1,3.1584
+T21,fora_escopo,B,Como conseguir financiamento para comprar uma casa?,sem_resposta,,sem_resposta,,sem_resposta,,Não encontrei uma orientação confiável na base para essa pergunta. Escolha um tema ou consulte a fonte oficial adequada.,,1,3.2358
+T22,fora_escopo,B,Como recuperar a senha do meu Wi-Fi?,sem_resposta,,sem_resposta,,sem_resposta,,A correspondência é insuficiente para orientar com segurança. Especifique o assunto ou escolha uma opção do menu.,,1,3.992
+T23,fora_escopo,B,Como alterar o telefone da minha conta bancária?,sem_resposta,,sem_resposta,,sem_resposta,,A correspondência é insuficiente para orientar com segurança. Especifique o assunto ou escolha uma opção do menu.,,1,3.0731
+T24,ambiguidade,B,documento digital,ambiguo,,ambiguo,,ambiguo,,Há mais de um assunto possível. Escolha a orientação desejada.,DOC01;DOC02;DOC03;DOC04;DOC05,1,0.0213
+T25,ambiguidade,B,conta gov.br,ambiguo,,ambiguo,,ambiguo,,Há mais de um assunto possível. Escolha a orientação desejada.,GOV01;GOV02;GOV03;GOV04;GOV05,1,0.0165
+T26,entrada_invalida,B,,invalido,,invalido,,invalido,,Digite uma pergunta ou escolha um tema no menu.,,1,0.0018

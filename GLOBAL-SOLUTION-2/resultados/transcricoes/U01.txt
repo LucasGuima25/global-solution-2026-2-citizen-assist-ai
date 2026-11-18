@@ -1,0 +1,44 @@
+
+CITIZEN ASSIST AI
+
+Assistente educativo de orientação cidadã. Não é um canal oficial.
+As respostas vêm de uma base local e podem exigir confirmação na fonte.
+Não informe CPF, senha, documentos ou outros dados pessoais.
+As perguntas não são gravadas nem enviadas a serviços externos.
+
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Qual é sua dúvida? (0 para voltar): 
+GOV02 - Recuperar a senha gov.br
+
+Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.
+
+Como consultar:
+1. Acesse o login gov.br pelo serviço oficial.
+2. Escolha Esqueci minha senha após informar o CPF.
+3. Siga uma alternativa disponível ou o atendimento indicado pelo gov.br.
+
+Fonte: Governo Digital - Recuperar senha da conta gov.br
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificado em: 2026-11-10
+Atenção: Não informe senha ou códigos neste assistente. A recuperação pode alterar o nível da conta; dificuldades com verificação em duas etapas têm fluxo próprio no atendimento gov.br.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.
+
+Continuar por um assunto relacionado:
+1. Ativar verificação em duas etapas
+2. Atualizar e-mail ou telefone da conta
+3. Consultar e aumentar o nível da conta
+0. Voltar
+Escolha: 
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: Consulta encerrada.

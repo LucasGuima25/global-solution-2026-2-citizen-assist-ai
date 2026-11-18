@@ -1,0 +1,31 @@
+{
+  "criterio": "Gabarito definido pelos assuntos previstos na base, antes da execução. Fora do escopo deve produzir sem_resposta; expressões amplas com mais de um assunto devem pedir esclarecimento.",
+  "casos": [
+    {"id": "T01", "categoria": "direta", "pergunta": "Como criar uma conta gov.br?", "status_esperado": "encontrado", "registro_esperado": "GOV01"},
+    {"id": "T02", "categoria": "direta", "pergunta": "Como recuperar a senha da conta gov.br?", "status_esperado": "encontrado", "registro_esperado": "GOV02"},
+    {"id": "T03", "categoria": "direta", "pergunta": "Como aumentar o nível da conta gov.br para prata ou ouro?", "status_esperado": "encontrado", "registro_esperado": "GOV03"},
+    {"id": "T04", "categoria": "direta", "pergunta": "Como ativar a verificação em duas etapas no gov.br?", "status_esperado": "encontrado", "registro_esperado": "GOV04"},
+    {"id": "T05", "categoria": "direta", "pergunta": "Como alterar meu e-mail ou telefone na conta gov.br?", "status_esperado": "encontrado", "registro_esperado": "GOV05"},
+    {"id": "T06", "categoria": "direta", "pergunta": "Como acessar a Carteira de Trabalho Digital?", "status_esperado": "encontrado", "registro_esperado": "DOC01"},
+    {"id": "T07", "categoria": "direta", "pergunta": "Como acessar a CNH digital?", "status_esperado": "encontrado", "registro_esperado": "DOC02"},
+    {"id": "T08", "categoria": "direta", "pergunta": "Como obter o CRLV-e do veículo?", "status_esperado": "encontrado", "registro_esperado": "DOC03"},
+    {"id": "T09", "categoria": "direta", "pergunta": "Como acessar a CIN digital depois de emitir a carteira física?", "status_esperado": "encontrado", "registro_esperado": "DOC04"},
+    {"id": "T10", "categoria": "direta", "pergunta": "Como acessar meu título eleitoral pelo e-Título?", "status_esperado": "encontrado", "registro_esperado": "DOC05"},
+    {"id": "T11", "categoria": "direta", "pergunta": "Como registrar uma manifestação na ouvidoria pelo Fala.BR?", "status_esperado": "encontrado", "registro_esperado": "CID01"},
+    {"id": "T12", "categoria": "direta", "pergunta": "Como fazer um pedido de acesso à informação pública pela LAI?", "status_esperado": "encontrado", "registro_esperado": "CID02"},
+    {"id": "T13", "categoria": "direta", "pergunta": "Como reclamar de uma empresa no Consumidor.gov.br?", "status_esperado": "encontrado", "registro_esperado": "CID03"},
+    {"id": "T14", "categoria": "direta", "pergunta": "Como consultar a situação cadastral do meu CPF?", "status_esperado": "encontrado", "registro_esperado": "CID04"},
+    {"id": "T15", "categoria": "direta", "pergunta": "Como localizar um CRAS perto de mim?", "status_esperado": "encontrado", "registro_esperado": "CID05"},
+    {"id": "T16", "categoria": "reformulacao", "pergunta": "Esqueci minha senha do gov.br. Como recupero o acesso?", "status_esperado": "encontrado", "registro_esperado": "GOV02"},
+    {"id": "T17", "categoria": "reformulacao", "pergunta": "Quero ver minha carteira de trabalho no celular.", "status_esperado": "encontrado", "registro_esperado": "DOC01"},
+    {"id": "T18", "categoria": "reformulacao", "pergunta": "Preciso reclamar de uma empresa. Posso usar o portal Consumidor.gov?", "status_esperado": "encontrado", "registro_esperado": "CID03"},
+    {"id": "T19", "categoria": "fora_escopo", "pergunta": "Como emitir meu passaporte?", "status_esperado": "sem_resposta", "registro_esperado": null},
+    {"id": "T20", "categoria": "fora_escopo", "pergunta": "Quero agendar uma consulta médica no SUS.", "status_esperado": "sem_resposta", "registro_esperado": null},
+    {"id": "T21", "categoria": "fora_escopo", "pergunta": "Como conseguir financiamento para comprar uma casa?", "status_esperado": "sem_resposta", "registro_esperado": null},
+    {"id": "T22", "categoria": "fora_escopo", "pergunta": "Como recuperar a senha do meu Wi-Fi?", "status_esperado": "sem_resposta", "registro_esperado": null},
+    {"id": "T23", "categoria": "fora_escopo", "pergunta": "Como alterar o telefone da minha conta bancária?", "status_esperado": "sem_resposta", "registro_esperado": null},
+    {"id": "T24", "categoria": "ambiguidade", "pergunta": "documento digital", "status_esperado": "ambiguo", "registro_esperado": null},
+    {"id": "T25", "categoria": "ambiguidade", "pergunta": "conta gov.br", "status_esperado": "ambiguo", "registro_esperado": null},
+    {"id": "T26", "categoria": "entrada_invalida", "pergunta": "", "status_esperado": "invalido", "registro_esperado": null}
+  ]
+}

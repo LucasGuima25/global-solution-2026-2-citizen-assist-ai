@@ -1,0 +1,119 @@
+
+CITIZEN ASSIST AI
+
+Assistente educativo de orientação cidadã. Não é um canal oficial.
+As respostas vêm de uma base local e podem exigir confirmação na fonte.
+Não informe CPF, senha, documentos ou outros dados pessoais.
+As perguntas não são gravadas nem enviadas a serviços externos.
+
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: 
+Temas disponíveis:
+1. Conta gov.br
+2. Documentos digitais
+3. Serviços ao cidadão
+0. Voltar
+Escolha: 
+Tema atual: Conta gov.br
+Temas relacionados: Documentos digitais, Serviços ao cidadão
+
+Assuntos e caminhos de consulta:
+1. Criar uma conta gov.br
+2. Recuperar a senha gov.br
+3. Consultar e aumentar o nível da conta
+4. Ativar verificação em duas etapas
+5. Atualizar e-mail ou telefone da conta
+6. Fazer uma pergunta neste tema
+7. Explorar Documentos digitais
+8. Explorar Serviços ao cidadão
+0. Voltar
+Escolha: 
+GOV01 - Criar uma conta gov.br
+
+Você pode criar a conta pelo site ou pelo aplicativo gov.br. Acesse a opção de criação, informe o CPF somente no canal oficial e siga as instruções de validação e definição de senha. O cadastro é gratuito para quem possui registro no CPF.
+
+Como consultar:
+1. Abra o serviço oficial Criar sua conta GOV.BR.
+2. Escolha o site ou aplicativo e inicie o cadastro.
+3. Siga a validação de identidade e crie a senha no ambiente oficial.
+
+Fonte: Governo Federal - Criar sua conta GOV.BR
+https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br
+Verificado em: 2026-11-10
+Atenção: Este protótipo não cria contas nem recebe CPF ou senha. Cada serviço pode exigir um nível de conta diferente; confirme na página oficial.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.
+
+Continuar por um assunto relacionado:
+1. Recuperar a senha gov.br
+2. Consultar e aumentar o nível da conta
+3. Acessar a Carteira de Trabalho Digital
+0. Voltar
+Escolha: 
+GOV02 - Recuperar a senha gov.br
+
+Na página de acesso gov.br, informe o CPF no ambiente oficial e escolha Esqueci minha senha. Siga o método disponível para sua conta, como reconhecimento facial, banco credenciado, e-mail ou celular. Se não conseguir usar essas opções, consulte o formulário de atendimento indicado na página oficial.
+
+Como consultar:
+1. Acesse o login gov.br pelo serviço oficial.
+2. Escolha Esqueci minha senha após informar o CPF.
+3. Siga uma alternativa disponível ou o atendimento indicado pelo gov.br.
+
+Fonte: Governo Digital - Recuperar senha da conta gov.br
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificado em: 2026-11-10
+Atenção: Não informe senha ou códigos neste assistente. A recuperação pode alterar o nível da conta; dificuldades com verificação em duas etapas têm fluxo próprio no atendimento gov.br.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.
+
+Continuar por um assunto relacionado:
+1. Ativar verificação em duas etapas
+2. Atualizar e-mail ou telefone da conta
+3. Consultar e aumentar o nível da conta
+0. Voltar
+Escolha: 
+GOV04 - Ativar verificação em duas etapas
+
+Com uma conta prata ou ouro, entre no aplicativo gov.br e abra Segurança da conta para ativar a verificação em duas etapas. O código de acesso é gerado no aplicativo vinculado à conta. Mantenha data e hora do celular sincronizadas e confira a opção de cadastrar um e-mail de recuperação.
+
+Como consultar:
+1. Confira se a conta é prata ou ouro e acesse o aplicativo gov.br.
+2. Em Segurança da conta, habilite Verificação em duas etapas.
+3. Leia os cuidados de recuperação antes de trocar o celular ou remover o aplicativo.
+
+Fonte: Governo Digital - Ativar a verificação em duas etapas
+https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/ativar-a-verificacao-em-duas-etapas/ativar-a-verificacao-em-duas-etapas/
+Verificado em: 2026-11-10
+Atenção: Não compartilhe códigos de acesso. A perda do vínculo com o celular pode exigir recuperação pelo canal oficial; este protótipo não desativa a proteção.
+Protótipo acadêmico. Este assistente não é um canal oficial de atendimento.
+
+Continuar por um assunto relacionado:
+1. Consultar e aumentar o nível da conta
+2. Recuperar a senha gov.br
+3. Atualizar e-mail ou telefone da conta
+0. Voltar
+Escolha: 
+Tema atual: Conta gov.br
+Temas relacionados: Documentos digitais, Serviços ao cidadão
+
+Assuntos e caminhos de consulta:
+1. Criar uma conta gov.br
+2. Recuperar a senha gov.br
+3. Consultar e aumentar o nível da conta
+4. Ativar verificação em duas etapas
+5. Atualizar e-mail ou telefone da conta
+6. Fazer uma pergunta neste tema
+7. Explorar Documentos digitais
+8. Explorar Serviços ao cidadão
+0. Voltar
+Escolha: 
+Menu principal | Modelo de resposta: B
+1. Fazer uma pergunta
+2. Explorar temas e assuntos
+3. Comparar instruções e trocar modelo de resposta
+4. Ver fontes, privacidade e limites
+0. Sair
+Escolha: Consulta encerrada.
