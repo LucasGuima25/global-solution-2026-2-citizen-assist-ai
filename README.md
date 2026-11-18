@@ -1,6 +1,6 @@
 # Citizen Assist AI
 
-Atividade organizada na pasta [GLOBAL-SOLUTION-2](GLOBAL-SOLUTION-2/). Abra o terminal nessa pasta para executar os comandos abaixo.
+Atividade organizada na pasta [GLOBAL-SOLUTION-2](https://github.com/LucasGuima25/global-solution-2026-2-citizen-assist-ai/tree/main/GLOBAL-SOLUTION-2). Abra o terminal nessa pasta para executar os comandos abaixo.
 
 Global Solution 2026.2 - CitizenTech - FIAP.
 
@@ -135,4 +135,4 @@ O apoio de IA utilizado na elaboração está registrado em [uso de IA](GLOBAL-S
 
 Seguir o [modelo da coordenação](https://github.com/equipe1ccon/FIAP-PORTFOLIO-1CCON/tree/master) e acomodar esta atividade à pasta da turma. O PDF apresenta as Tabelas 1 e 2 sem conteúdo; a organização interna segue as exigências textuais disponíveis.
 
-A entrega final na FIAP ON é um TXT contendo apenas o link real do repositório GitHub público e o link real do vídeo YouTube Não Listado. Os dois links estão registrados acima e no arquivo local [entrega.txt](entrega.txt), preparado em 18/11/2026. **Permanece pendente enviar esse TXT à FIAP ON e confirmar o registro da submissão.** Conferir prazo e instruções vigentes na plataforma, inclusive orientações da coordenação sobre a turma.
+A entrega final na FIAP ON é um TXT contendo apenas o link real do repositório GitHub público e o link real do vídeo YouTube Não Listado. Os dois links estão registrados acima e no arquivo local [entrega.txt](GLOBAL-SOLUTION-2/entrega.txt), preparado em 18/11/2026. **Permanece pendente enviar esse TXT à FIAP ON e confirmar o registro da submissão.** Conferir prazo e instruções vigentes na plataforma, inclusive orientações da coordenação sobre a turma.
